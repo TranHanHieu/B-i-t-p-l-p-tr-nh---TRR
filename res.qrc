@@ -1,0 +1,71 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icon/1 (1).png</file>
+        <file>Icon/1 (2).png</file>
+        <file>Icon/1 (3).png</file>
+        <file>Icon/1 (4).png</file>
+        <file>Icon/1 (5).png</file>
+        <file>Icon/1 (6).png</file>
+        <file>Icon/1 (7).png</file>
+        <file>Icon/1 (8).png</file>
+        <file>Icon/1 (9).png</file>
+        <file>Icon/1 (10).png</file>
+        <file>Icon/1 (11).png</file>
+        <file>Icon/1 (12).png</file>
+        <file>Icon/1 (13).png</file>
+        <file>Icon/1 (14).png</file>
+        <file>Icon/1 (15).png</file>
+        <file>Icon/1 (16).png</file>
+        <file>Icon/1 (17).png</file>
+        <file>Icon/1 (18).png</file>
+        <file>Icon/1 (19).png</file>
+        <file>Icon/1 (20).png</file>
+        <file>Icon/1 (21).png</file>
+        <file>Icon/1 (22).png</file>
+        <file>Icon/1 (23).png</file>
+        <file>Icon/1 (24).png</file>
+        <file>Icon/1 (25).png</file>
+        <file>Icon/1 (26).png</file>
+        <file>Icon/1 (27).png</file>
+        <file>Icon/1 (28).png</file>
+        <file>Icon/1 (29).png</file>
+        <file>Icon/1 (30).png</file>
+        <file>Icon/1 (31).png</file>
+        <file>Icon/1 (32).png</file>
+        <file>Icon/1 (33).png</file>
+        <file>Icon/1 (34).png</file>
+        <file>Icon/1 (35).png</file>
+        <file>Icon/1 (36).png</file>
+        <file>Icon/1 (37).png</file>
+        <file>Icon/1 (38).png</file>
+        <file>Icon/1 (39).png</file>
+        <file>Icon/1 (40).png</file>
+        <file>Icon/1 (41).png</file>
+        <file>Icon/1 (42).png</file>
+        <file>Icon/1 (43).png</file>
+        <file>Icon/1 (44).png</file>
+        <file>Icon/1 (45).png</file>
+        <file>Icon/1 (46).png</file>
+        <file>Icon/1 (47).png</file>
+        <file>Icon/1 (48).png</file>
+        <file>Icon/1 (49).png</file>
+        <file>Icon/1 (50).png</file>
+        <file>Icon/1 (51).png</file>
+        <file>Icon/1 (52).png</file>
+        <file>Icon/1 (53).png</file>
+        <file>Icon/1.png</file>
+        <file>Icon/apple.png</file>
+        <file>Icon/1465032999_apple-corp-corporation-logo-logotype.ico</file>
+        <file>Icon/1465033705_new_apple_tv_2015.ico</file>
+        <file>Icon/1465034809_Mac.ico</file>
+        <file>Icon/about.png</file>
+        <file>Icon/add.png</file>
+        <file>Icon/clear.png</file>
+        <file>Icon/delete.png</file>
+        <file>Icon/exit.png</file>
+        <file>Icon/search.png</file>
+        <file>Icon/qt.png</file>
+        <file>Icon/Untitled.png</file>
+        <file>Icon/1465132074_apple_logo.ico</file>
+    </qresource>
+</RCC>
